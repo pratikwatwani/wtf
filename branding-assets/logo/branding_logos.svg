@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1283.4694mm"
+   height="153.24945mm"
+   viewBox="0 0 1283.4694 153.24944"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="branding_logos.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:export-filename="../../../../../Downloads/branding_logos.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.54399101"
+     inkscape:cx="336.40262"
+     inkscape:cy="665.45218"
+     inkscape:window-width="1680"
+     inkscape:window-height="937"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g43"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter15"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix14" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix15" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter17"
+       x="-0.00043563866"
+       y="-0.0020764822"
+       width="1.0008713"
+       height="1.004153">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix16" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix17" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter19"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix18" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         id="feColorMatrix19" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix20" />
+      <feColorMatrix
+         id="feColorMatrix21"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix22"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix23" />
+      <feColorMatrix
+         id="feColorMatrix24"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix25"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix26" />
+      <feColorMatrix
+         id="feColorMatrix27"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix28"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix29" />
+      <feColorMatrix
+         id="feColorMatrix30"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix31"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter33"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix32" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix33" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter35"
+       x="0"
+       y="0"
+       width="1"
+       height="1.0000001">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix34" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix35" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter35-8"
+       x="0"
+       y="0"
+       width="1"
+       height="1.0000001">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix34-5" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix35-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter37"
+       x="-0.0024088442"
+       y="-0.0024088442"
+       width="1.0048177"
+       height="1.0048177">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix36" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix37" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter37-5"
+       x="-0.0024088442"
+       y="-0.0024088442"
+       width="1.0048177"
+       height="1.0048177">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix36-0" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix37-5" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter35-8-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix34-5-0" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix35-4-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter35-7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix34-9" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix35-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter35-6"
+       x="0"
+       y="0"
+       width="1"
+       height="1.0000001">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix34-2" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2"
+         id="feColorMatrix35-8" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(67.122028,229.92865)">
+    <g
+       id="g46">
+      <g
+         id="g10"
+         transform="matrix(1.1456767,0,0,1.1456767,-1593.436,-500.98468)">
+        <rect
+           style="fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect5"
+           width="93.650818"
+           height="37.040997"
+           x="1374.7109"
+           y="254.34959" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:24.5754px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.072565;stroke-linecap:round;stroke-linejoin:bevel"
+           x="1380.0408"
+           y="281.60666"
+           id="text9"><tspan
+             sodipodi:role="line"
+             id="tspan9"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:24.5754px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0725652"
+             x="1380.0408"
+             y="281.60666">WTF***</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g37">
+      <rect
+         style="fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0751767;stroke-linecap:round;stroke-linejoin:bevel"
+         id="rect5-0"
+         width="140.80753"
+         height="55.692532"
+         x="157.03978"
+         y="-217.81267" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel"
+         x="174.09848"
+         y="-178.73502"
+         id="text9-0"><tspan
+           sodipodi:role="line"
+           id="tspan9-38"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0932871"
+           x="174.09848"
+           y="-178.73502">WTF***</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel"
+         x="234.24274"
+         y="-178.8479"
+         id="text9-0-0"><tspan
+           sodipodi:role="line"
+           id="tspan9-38-9"
+           style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0932871"
+           x="234.24274"
+           y="-178.8479">act</tspan></text>
+    </g>
+    <g
+       id="g39">
+      <g
+         id="g38">
+        <g
+           id="g10-3-2"
+           transform="matrix(1.5035376,0,0,1.5035376,-1909.8898,-529.18556)"
+           style="filter:url(#filter33)">
+          <rect
+             style="fill:#1a1a1a;stroke:none;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:bevel"
+             id="rect5-0-3"
+             width="93.650818"
+             height="37.040997"
+             x="1374.7109"
+             y="254.34959" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:21.0126px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0620449;stroke-linecap:round;stroke-linejoin:bevel"
+             x="1386.0566"
+             y="280.34006"
+             id="text9-0-8"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-7"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:21.0126px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0620451"
+               x="1386.0566"
+               y="280.34006">WTF***</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.50822px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0620449;stroke-linecap:round;stroke-linejoin:bevel"
+             x="1426.0585"
+             y="280.26498"
+             id="text9-0-0-8"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-9-0"
+               style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.50822px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0620451"
+               x="1426.0585"
+               y="280.26498">act</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g47">
+      <g
+         id="g1"
+         transform="matrix(1.1456767,0,0,1.1456767,-1593.4074,-431.53602)">
+        <rect
+           style="fill:#1a1a1a;stroke:none;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:bevel;filter:url(#filter15)"
+           id="rect1"
+           width="93.650818"
+           height="37.040997"
+           x="1374.7109"
+           y="254.34959" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:24.5754px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.072565;stroke-linecap:round;stroke-linejoin:bevel;filter:url(#filter17)"
+           x="1380.0408"
+           y="281.60666"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:24.5754px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0725652"
+             x="1380.0408"
+             y="281.60666">WTF***</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g41">
+      <g
+         id="g17"
+         transform="matrix(2.1693859,0,0,0.9967797,-2619.8208,-461.95777)">
+        <rect
+           style="fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect17"
+           width="93.650818"
+           height="37.040997"
+           x="1374.7109"
+           y="254.34959" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.669px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0492194;stroke-linecap:round;stroke-linejoin:bevel"
+           x="2041.8458"
+           y="190.81479"
+           id="text9-2"
+           transform="scale(0.67784624,1.4752608)"><tspan
+             sodipodi:role="line"
+             id="tspan9-3"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.669px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0492195"
+             x="2041.8458"
+             y="190.81479">What The Fact</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40">
+      <g
+         id="g17-6"
+         transform="matrix(2.1693859,0,0,0.9967797,-2619.7666,-390.91831)"
+         style="filter:url(#filter19)">
+        <rect
+           style="fill:#1a1a1a;stroke:none;stroke-width:0.0499999;stroke-linecap:round;stroke-linejoin:bevel"
+           id="rect17-5"
+           width="93.650818"
+           height="37.040997"
+           x="1374.7109"
+           y="254.34959" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.669px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;stroke:#ffffe3;stroke-width:0.0492194;stroke-linecap:round;stroke-linejoin:bevel"
+           x="2041.8458"
+           y="190.81479"
+           id="text9-2-7"
+           transform="scale(0.67784624,1.4752608)"><tspan
+             sodipodi:role="line"
+             id="tspan9-3-3"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.669px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.0492195"
+             x="2041.8458"
+             y="190.81479">What The Fact</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g42"
+       inkscape:export-filename="../../../../../Downloads/g42.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <g
+         id="g36"
+         transform="translate(-99.988746)">
+        <g
+           id="g35"
+           transform="matrix(1.1325181,0,0,1.1325181,-103.96781,20.412628)"
+           inkscape:export-filename="../../../../../Downloads/g35.png"
+           inkscape:export-xdpi="500"
+           inkscape:export-ydpi="500">
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.560856;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             id="path33"
+             cx="784.55579"
+             cy="-154.03658"
+             r="58.207996" />
+        </g>
+        <g
+           id="g33"
+           transform="translate(86.649225,33.512281)"
+           style="filter:url(#filter35)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             x="644.56146"
+             y="-176.31747"
+             id="text9-0-6"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-1"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932871;stroke-opacity:1"
+               x="644.56146"
+               y="-176.31747">WTF***</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffe3;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel"
+             x="706.20361"
+             y="-176.47701"
+             id="text9-0-0-3"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-9-1"
+               style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.0932871"
+               x="706.20361"
+               y="-176.47701">act</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g43">
+      <g
+         id="g36-6"
+         transform="translate(41.886877)"
+         style="filter:url(#filter37)"
+         inkscape:export-filename="../../../../../Downloads/g36-6.png"
+         inkscape:export-xdpi="500"
+         inkscape:export-ydpi="500">
+        <g
+           id="g35-6"
+           transform="matrix(1.1086093,0,0,1.1086093,-85.210034,16.729801)">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#ffffe3;stroke-width:0.560856;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             id="path33-6"
+             cx="784.55579"
+             cy="-154.03658"
+             r="58.207996" />
+        </g>
+        <g
+           id="g33-6"
+           transform="translate(86.649225,33.512281)"
+           style="filter:url(#filter35-8)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             x="644.56146"
+             y="-176.31747"
+             id="text9-0-6-7"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-1-0"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932871;stroke-opacity:1"
+               x="644.56146"
+               y="-176.31747">WTF***</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffe3;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel"
+             x="706.20361"
+             y="-176.47701"
+             id="text9-0-0-3-4"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-9-1-1"
+               style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.0932871"
+               x="706.20361"
+               y="-176.47701">act</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g44">
+      <g
+         id="g36-9"
+         transform="translate(188.43584,3.7777337)">
+        <g
+           id="g35-9">
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.560856;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             id="path33-4"
+             cx="784.55579"
+             cy="-154.03658"
+             r="58.207996" />
+        </g>
+        <g
+           id="g33-9"
+           transform="translate(86.649225,33.512281)"
+           style="filter:url(#filter35-7)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             x="644.56146"
+             y="-176.31747"
+             id="text9-0-6-1"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-1-5"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932871;stroke-opacity:1"
+               x="644.56146"
+               y="-176.31747">WTF***</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g45">
+      <g
+         id="g36-6-3"
+         transform="translate(330.31146,3.7777337)"
+         style="filter:url(#filter37-5)">
+        <g
+           id="g35-6-0">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#ffffe3;stroke-width:0.560856;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             id="path33-6-9"
+             cx="784.55579"
+             cy="-154.03658"
+             r="58.207996" />
+        </g>
+        <g
+           id="g33-6-0"
+           transform="translate(86.649225,33.512281)"
+           style="filter:url(#filter35-8-2)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;line-height:1;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932868;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+             x="644.56146"
+             y="-176.31747"
+             id="text9-0-6-7-7"><tspan
+               sodipodi:role="line"
+               id="tspan9-38-1-0-6"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:31.5932px;font-family:'Sofia Pro';-inkscape-font-specification:'Sofia Pro, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0932871;stroke-opacity:1"
+               x="644.56146"
+               y="-176.31747">WTF***</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
